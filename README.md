@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @RafaelNaunk
-- 👀 I’m interested in a new job
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me r.naunnccik@gmail.com
 
 <!---
